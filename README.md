@@ -23,7 +23,7 @@ Proficient in C/C++, Javascript and SQL; Data Structure and Algorithm. Passionat
   
 - 🔭 I’m currently working on [ERP (Ecommerce Solution)](https://github.com/zubayerahamed/ERP)
 
-- 🌱 I’m currently learning **Angular JS, Microservice, AWS**
+- 🌱 I’m currently learning **Nest JS, Microservice Solution**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
