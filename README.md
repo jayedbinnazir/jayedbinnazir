@@ -38,9 +38,3 @@ Proficient in C/C++, Javascript and SQL; Data Structure and Algorithm. Passionat
 <p align="left">
 <a href="https://www.linkedin.com/in/jayed-bin-nazir-253322235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zubayer-ahamed-55a869159" height="30" width="40" /></a>
 <a href="https://www.facebook.com/jayed018/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zubayerahamed" height="30" width="40" /></a>
-
-<h3 align="left">My Github Status:</h3>
-<span align="left">&nbsp;<img width="100%" align="left" src="https://github-readme-stats.vercel.app/api?username=zubayerahamed&show_icons=true&locale=en" alt="zubayerahamed" /></span>
-<span align="left"><img width="100%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zubayerahamed&" alt="jayed bin nazir" /></span>
-# jayedbinnazir
-# jayedbinnazir
