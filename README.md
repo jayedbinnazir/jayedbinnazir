@@ -1,40 +1,87 @@
-<h1 align="center">Hi 👋, I'm Full-Stack Software Developer</h1>
-<h3 align="center">A passionate full stack developer from Dhaka, Bangladesh</h3>
+# Hi 👋 I'm Jayed Bin Nazir
 
-<h3 align="left" >Career Objective:</h3>
-<p align="left" >
-Proficient in C/C++, Javascript and SQL; Data Structure and Algorithm. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.
-</p>
+### Full-Stack Software Engineer | NestJS | Next.js | Microservices
 
-<h3 align="left">Technical Skills: </h3>
-<p align="left">
-  <ul>
-    <li><b>Programming languags:</b> Proficient in JavaScript, TypeScript, C, C++</li>
-    <li><b>Front-End:</b> Extensive experience with Next.js, React, Redux, Redux Toolkit, React Query, React Hook Form, React-Table, Bootstrap 5, React Material UI, Daisy UI, CSS, and Tailwind CSS.</li>
-    <li><b>Back-End:</b>Skilled in Node.js and Express.js for building robust server-side applications.</li>
-    <li><b>Design Collaboration:</b> Experienced in using Figma for efficient design collaboration.</li>
-    <li><b>Version Control / Code Repository</b> Git, GitHub</li>
-    <li><b>Project Management:</b>Responsive Web Design, Web Performance Optimization</li>
-  </ul>
-</p>
+I'm a Full-Stack Software Engineer with 2+ years of experience building scalable and high-performance applications using modern web technologies. I enjoy designing backend architectures, microservices, ETL pipelines, and real-time systems.
 
-<h3 align="left">Activities: </h3>
-<p align="left">
-  
-- 🔭 I’m currently working on ERP
+---
 
-- 🌱 I’m currently learning **Nest JS, Microservice Solution**
+## 🚀 About Me
 
-- 👯 I’m looking to collaborate on **Open Source Project**
+- 🔭 Currently working at **TutorsPlan Technology Ltd**
+- 💻 Building scalable LMS and enterprise applications
+- 🌱 Exploring **Go**, distributed systems, and system design
+- ⚡ Strong interest in **Microservices**, **Kafka**, **Redis**, and performance optimization
+- 🎯 Focused on writing clean, maintainable, production-ready code
 
-- 🤝 I’m looking for help on **Accounting Module for ERP solution**
+---
 
-- 💬 Ask me about **Javascript** **Typescript**
+## 🛠 Tech Stack
 
-- 📫 How to reach me **jayed.freelance@gmail.com**
-</p>
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![Go](https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=go)
+![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
+![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jayed-bin-nazir-253322235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zubayer-ahamed-55a869159" height="30" width="40" /></a>
-<a href="https://www.facebook.com/jayed018/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zubayerahamed" height="30" width="40" /></a>
+### Frontend
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+![Redux](https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-red?style=for-the-badge&logo=nestjs)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+### Database & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
+![Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-orange?style=for-the-badge&logo=rabbitmq)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+
+---
+
+## 📌 Current Work Highlights
+
+✅ Building scalable LMS platform with NestJS + Next.js
+
+✅ Developed microservice APIs using Kafka, RabbitMQ, and Redis
+
+✅ Built ETL pipeline processing **1M+ records in ~3 minutes**
+
+✅ Improved API response performance by **40%**
+
+✅ Increased deployment reliability through Docker CI/CD
+
+---
+
+## 📊 GitHub Stats
+
+![Jayed GitHub stats](https://github-readme-stats.vercel.app/api?username=jayedbinnazir&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayedbinnazir&layout=compact)
+
+---
+
+## 🤝 Connect With Me
+
+📧 Email: jayed.official1998@gmail.com
+
+💼 LinkedIn:  
+https://www.linkedin.com/in/jayed-bin-nazir-6326b03b5/
+
+🐙 GitHub:  
+https://github.com/jayedbinnazir
+
+🎥 Video Resume:  
+https://drive.google.com/file/d/12F6eNM5eC59yCDhZWExS7VwPvIcasaZR/view
+
+---
+
+⭐ Always interested in building scalable systems and solving challenging engineering problems.
